@@ -1,4 +1,4 @@
-Completed Codepen https://codepen.io/atoledo1/pen/LYpPYBd?editors=1100
+Completed Codepen https://codepen.io/atoledo1/full/LYpPYBd
 1. What is Semantic HTML? It is HTML that brings meaning to the content. 
 2. What is HTML used for? It is used to describe content and presentation of the content of a webpage to the browser. 
 3. What is an attribute and where do we put it? Attributes are additional piieces of information that you can add to tags in order to communicate more information. 
@@ -37,7 +37,7 @@ Completed Codepen https://codepen.io/atoledo1/pen/LYpPYBd?editors=1100
 34. Why should I use version control? It lets you keep track of the changes made and it's helpful when collaborating. 
 35. How often should I commit to github? Every half an hour or when big changes are made. 
 36. What is the command we would use to push our repo up to github? git push <remote> <branch>
-37. Walk me through Lambda's git flow. 1. fork project 2.add collaborator 3.clone repo 4.cd to de directory you want 4.git clone <link-to-repo> 5.cd <repo-name> 6. create branch 7.work and commit changes 8.push changes
+37. Walk me through Lambda's git flow. 1. fork project 2.add collaborator 3.clone repo 4.cd to de directory you want 4.git clone <link-to-repo> 5.cd <repo-name> 6. create branch 7.work and commit changes 8.push changes 9.pull request and add tl as collaborator
 
 
 Stretch Questions
